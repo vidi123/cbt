@@ -1,0 +1,46 @@
+[09-Feb-2023 10:58:51 Asia/Jakarta] PHP Fatal error:  Call to undefined function mysqli_init() in /home/yppt8362/public_html/cbt/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[09-Feb-2023 11:15:55 Asia/Jakarta] PHP Fatal error:  Call to undefined function mysqli_init() in /home/yppt8362/public_html/cbt/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[09-Feb-2023 11:19:29 Asia/Jakarta] PHP Fatal error:  Call to undefined function mysqli_init() in /home/yppt8362/public_html/cbt/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[02-Mar-2023 14:21:43 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/yppt8362/public_html/cbt/application/models/Cbt_tes_user_model.php on line 182
+[02-Mar-2023 14:21:43 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/yppt8362/public_html/cbt/application/models/Cbt_tes_user_model.php on line 182
+[02-Mar-2023 14:48:15 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/yppt8362/public_html/cbt/application/models/Cbt_tesgrup_model.php on line 53
+[02-Mar-2023 14:48:15 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/yppt8362/public_html/cbt/application/models/Cbt_tesgrup_model.php on line 53
+[02-Mar-2023 14:51:59 Asia/Jakarta] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::table() in /home/yppt8362/public_html/cbt/application/controllers/manager/Laporan_analisis_butir_soal.php on line 76
+[02-Mar-2023 14:55:51 Asia/Jakarta] PHP Fatal error:  Call to a member function get() on null in /home/yppt8362/public_html/cbt/application/controllers/manager/Laporan_analisis_butir_soal.php on line 76
+[02-Mar-2023 14:56:42 Asia/Jakarta] PHP Fatal error:  Call to a member function get() on null in /home/yppt8362/public_html/cbt/application/controllers/manager/Laporan_analisis_butir_soal.php on line 76
+[02-Mar-2023 14:57:07 Asia/Jakarta] PHP Fatal error:  Call to a member function get() on null in /home/yppt8362/public_html/cbt/application/controllers/manager/Laporan_analisis_butir_soal.php on line 76
+[02-Mar-2023 14:57:36 Asia/Jakarta] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::get() in /home/yppt8362/public_html/cbt/application/controllers/manager/Laporan_analisis_butir_soal.php on line 76
+[02-Mar-2023 15:23:53 Asia/Jakarta] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/yppt8362/public_html/cbt/application/controllers/manager/Laporan_analisis_butir_soal.php on line 78
+[02-Mar-2023 15:26:47 Asia/Jakarta] PHP Fatal error:  Call to a member function get_by_kolom_limit() on null in /home/yppt8362/public_html/cbt/application/controllers/manager/Laporan_analisis_butir_soal.php on line 85
+[02-Mar-2023 15:31:17 Asia/Jakarta] PHP Fatal error:  Call to a member function get_by_kolom_limit() on null in /home/yppt8362/public_html/cbt/application/controllers/manager/Laporan_analisis_butir_soal.php on line 83
+[02-Mar-2023 20:44:56 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on null in /home/yppt8362/public_html/cbt/application/controllers/manager/Laporan_analisis_butir_soal.php on line 84
+[02-Mar-2023 21:26:41 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/yppt8362/public_html/cbt/application/controllers/manager/Laporan_analisis_butir_soal.php on line 97
+[02-Mar-2023 21:26:42 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/yppt8362/public_html/cbt/application/controllers/manager/Laporan_analisis_butir_soal.php on line 97
+[02-Mar-2023 21:42:09 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on array in /home/yppt8362/public_html/cbt/application/controllers/manager/Laporan_analisis_butir_soal.php on line 102
+[02-Mar-2023 22:02:57 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$jawaban_detail' (T_VARIABLE) in /home/yppt8362/public_html/cbt/application/controllers/manager/Laporan_analisis_butir_soal.php on line 110
+[02-Mar-2023 22:02:57 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$jawaban_detail' (T_VARIABLE) in /home/yppt8362/public_html/cbt/application/controllers/manager/Laporan_analisis_butir_soal.php on line 110
+[02-Mar-2023 22:03:06 Asia/Jakarta] PHP Fatal error:  Unsupported operand types in /home/yppt8362/public_html/cbt/application/controllers/manager/Laporan_analisis_butir_soal.php on line 117
+[02-Mar-2023 23:17:02 Asia/Jakarta] PHP Fatal error:  Unsupported operand types in /home/yppt8362/public_html/cbt/application/controllers/manager/Laporan_analisis_butir_soal.php on line 118
+[02-Mar-2023 23:34:59 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/yppt8362/public_html/cbt/application/controllers/manager/Laporan_analisis_butir_soal.php on line 278
+[02-Mar-2023 23:34:59 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/yppt8362/public_html/cbt/application/controllers/manager/Laporan_analisis_butir_soal.php on line 278
+[03-Mar-2023 22:30:56 Asia/Jakarta] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::get() in /home/yppt8362/public_html/cbt/application/controllers/Tes_kerjakan.php on line 168
+[03-Mar-2023 22:31:14 Asia/Jakarta] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::get() in /home/yppt8362/public_html/cbt/application/controllers/Tes_kerjakan.php on line 168
+[04-Mar-2023 19:43:23 Asia/Jakarta] PHP Fatal error:  Call to undefined method Tes_tambah::where() in /home/yppt8362/public_html/cbt/application/controllers/manager/Tes_tambah.php on line 333
+[04-Mar-2023 19:44:27 Asia/Jakarta] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::reuslt_array() in /home/yppt8362/public_html/cbt/application/controllers/manager/Tes_tambah.php on line 335
+[04-Mar-2023 19:47:06 Asia/Jakarta] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/yppt8362/public_html/cbt/application/controllers/manager/Tes_tambah.php on line 333
+[04-Mar-2023 20:32:06 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/yppt8362/public_html/cbt/application/controllers/manager/Modul_soal.php on line 301
+[04-Mar-2023 20:32:07 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/yppt8362/public_html/cbt/application/controllers/manager/Modul_soal.php on line 301
+[13-Mar-2023 22:37:02 Asia/Jakarta] PHP Fatal error:  Call to undefined method Cbt_tes_soal_model::where() in /home/yppt8362/public_html/cbt/application/controllers/Tes_kerjakan.php on line 34
+[13-Mar-2023 22:37:03 Asia/Jakarta] PHP Fatal error:  Call to undefined method Cbt_tes_soal_model::where() in /home/yppt8362/public_html/cbt/application/controllers/Tes_kerjakan.php on line 34
+[13-Mar-2023 22:42:58 Asia/Jakarta] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::result_aray() in /home/yppt8362/public_html/cbt/application/controllers/Tes_kerjakan.php on line 38
+[13-Mar-2023 22:43:00 Asia/Jakarta] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::result_aray() in /home/yppt8362/public_html/cbt/application/controllers/Tes_kerjakan.php on line 38
+[13-Mar-2023 22:43:02 Asia/Jakarta] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::result_aray() in /home/yppt8362/public_html/cbt/application/controllers/Tes_kerjakan.php on line 38
+[28-Nov-2023 08:51:02 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '*' in /home/yppt8362/public_html/cbt/application/controllers/manager/Usermenu.php on line 3
+[12-Sep-2024 10:12:03 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '*' in /home/sekm2524/public_html/cbtguruhebat.my.id/application/controllers/manager/Usermenu.php on line 3
+[13-Sep-2024 13:35:04 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '*' in /home/sekm2524/public_html/cbtguruhebat.my.id/application/controllers/manager/Usermenu.php on line 3
+[17-Sep-2024 08:51:03 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '*' in /home/sekm2524/public_html/cbtguruhebat.my.id/application/controllers/manager/Usermenu.php on line 3
+[17-Sep-2024 09:02:53 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '*' in /home/sekm2524/public_html/cbtguruhebat.my.id/application/controllers/manager/Usermenu.php on line 3
+[17-Sep-2024 14:30:46 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '*' in /home/sekm2524/public_html/cbtguruhebat.my.id/application/controllers/manager/Usermenu.php on line 3
+[25-Oct-2024 10:25:39 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '*' in /home/sekm2524/public_html/cbtguruhebat.my.id/application/controllers/manager/Usermenu.php on line 3
+[29-Oct-2024 11:46:15 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '*' in /home/sekm2524/public_html/cbtguruhebat.my.id/application/controllers/manager/Usermenu.php on line 3
+[11-Nov-2024 13:23:01 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '*' in /home/sekm2524/public_html/cbtguruhebat.my.id/application/controllers/manager/Usermenu.php on line 3

@@ -1,0 +1,35 @@
+/* box nya */
+.box.box-solid.box-success {
+    border: 1px solid #a6b6f1;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+/* bagian soal dan jawaban */
+label:has(> input:checked){
+    background: #237ebc;
+    border: 1px solid #237ebc;
+    border-radius: 7px;
+    color: white;
+    width: 100%;
+}
+
+label:has(> input){
+    background: white;
+    border: 1px solid #237ebc;
+    border-radius: 7px;
+    color: #333333;
+    width: 100%;
+}
+
+label > input{
+    display: none;
+}
+
+p{
+    margin: 10px 0px;
+}
+
+p > img{
+    border-radius: 5px;
+}
