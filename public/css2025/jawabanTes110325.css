@@ -6,7 +6,7 @@
 }
 
 /* bagian soal dan jawaban */
-label:has(> input:checked){
+.radio > label:has(> input:checked){
     background: #237ebc;
     border: 1px solid #237ebc;
     border-radius: 7px;
@@ -14,7 +14,7 @@ label:has(> input:checked){
     width: 100%;
 }
 
-label:has(> input){
+.radio > label:has(> input){
     background: white;
     border: 1px solid #237ebc;
     border-radius: 7px;
@@ -22,7 +22,7 @@ label:has(> input){
     width: 100%;
 }
 
-label > input{
+.radio > label > input{
     display: none;
 }
 

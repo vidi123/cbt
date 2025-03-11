@@ -15,7 +15,7 @@
     
     <!-- Theme style -->
     <link href="<?php echo base_url(); ?>public/plugins/adminlte/css/AdminLTE100325S.css" rel="stylesheet" type="text/css" />
-    <link href="<?php echo base_url(); ?>public/css2025/jawabanTes100325.css" rel="stylesheet" type="text/css" />
+    <link href="<?php echo base_url(); ?>public/css2025/jawabanTes110325.css" rel="stylesheet" type="text/css" />
     <!-- AdminLTE Skins. Choose a skin from the css/skins
          folder instead of downloading all of them to reduce the load. -->
     <link href="<?php echo base_url(); ?>public/plugins/adminlte/css/skins/_all-skins.min100325.css" rel="stylesheet" type="text/css" />
